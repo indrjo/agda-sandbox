@@ -1,4 +1,4 @@
-module hello-natural-numbers where
+module natural-numbers where
 
 open import Data.Nat using (ℕ; zero; suc)
 open import Agda.Primitive using (Level; _⊔_)
